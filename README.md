@@ -1,7 +1,7 @@
 <div align="center">
 
 # Merhaba, Ben Talha 👋
-### Yapay Zeka ve Veri Mühendisliği Öğrencisi | Otonom Sistemler Geliştiricisi
+### Yapay Zeka ve Veri Mühendisliği Öğrencisi 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Profilim-blue?style=for-the-badge&logo=linkedin)](LINKEDIN_ADRESINI_BURAYA_YAPISTIR)
 [![Email](https://img.shields.io/badge/Email-Bana_Ulaşın-c14438?style=for-the-badge&logo=gmail)](mailto:EMAIL_ADRESINI_BURAYA_YAPISTIR)
