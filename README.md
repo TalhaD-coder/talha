@@ -25,7 +25,7 @@ Fırat Üniversitesi **Yapay Zeka ve Veri Mühendisliği** bölümünde lisans e
 
 Mühendislik eğitimim süresince kendimi tek bir alanla sınırlamak yerine; **Yazılım Geliştirme**, **Veri Analitiği** ve **Donanım-Yazılım Entegrasyonu** gibi farklı disiplinlerde projeler üreterek çok yönlü bir bakış açısı kazanmayı hedefliyorum. Akademik teoriyi; TÜBİTAK projeleri, girişimcilik faaliyetleri ve bireysel çalışmalarla pratiğe dökerek, karşılaştığım problemleri mühendislik disipliniyle çözmeye odaklanıyorum.
 
-Amacım; teknolojiyi bir araç olarak kullanarak, hangi alanda olursa olsun (Web, AI, IoT veya Lojistik) ölçeklenebilir ve verimli çözümler üretmektir.
+**Amacım; teknolojiyi bir araç olarak kullanarak, hangi alanda olursa olsun (Web, AI, IoT veya Lojistik) ölçeklenebilir ve verimli çözümler üretebilen, sektörün ihtiyaçlarına cevap verecek yetkinlikte bir mühendis olmaktır.**
 
 ---
 
@@ -64,32 +64,14 @@ Zorlu arazi koşullarında lojistik destek sağlayabilen ve keşif yapabilen, ti
 
 #### 3. 📰 Akıllı Gündem Ajansı
 **Rol:** Bireysel Geliştirici
-> **Kategori:** Yapay Zeka & NLP | **Durum:** Prototip Tamamlandı 🟢
+> **Kategori:** Okul Projesi (Yapay Zeka & NLP) | **Durum:** Prototip Tamamlandı 🟢
 
 Kullanıcıların dijital okuma alışkanlıklarını analiz ederek, bilgi kirliliğini önlemeyi ve kişiye özel içerik sunmayı amaçlayan bir öneri sistemidir.
 * **Proje Detayı:** **Python** ve **Doğal Dil İşleme (NLP)** teknikleri kullanılarak haber metinleri kategorize edilmiş; kullanıcı ilgisine göre filtreleme yapan akıllı bir algoritma mimarisi kurgulanmıştır.
 
 #### 4. 🏨 Otel Veritabanı Yönetim Sistemi
 **Rol:** Backend & Database Developer
-> **Kategori:** Veritabanı Mimarisi | **Durum:** Tamamlandı 🟢
+> **Kategori:** Okul Projesi (Veritabanı Mimarisi) | **Durum:** Prototip Tamamlandı 🟢
 
 Büyük ölçekli veri yönetimini ve rezervasyon süreçlerini simüle eden, veri bütünlüğünü esas alan kapsamlı bir backend projesidir.
-* **Proje Detayı:** Karmaşık rezervasyon senaryolarını yönetebilmek adına **SQL** ile normalize edilmiş (3NF) bir veritabanı şeması tasarlanmış, sorgu performansları optimize edilerek veri tutarlılığı sağlanmıştır.
-
----
-
-### 📈 GitHub İstatistikleri
-
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=TalhaD-coder&show_icons=true&locale=tr" alt="TalhaD-coder" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaD-coder&layout=compact&locale=tr" alt="TalhaD-coder Languages" />
-  </p>
-</div>
-
----
-<div align="center">
-<i>"Sürekli öğreniyor, geliştiriyor ve uyguluyorum."</i>
-</div>
+* **Proje Detayı
