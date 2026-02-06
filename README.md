@@ -81,12 +81,13 @@ Büyük ölçekli veri yönetimini ve rezervasyon süreçlerini simüle eden, ve
 ### 📈 GitHub İstatistikleri
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=TalhaD-coder&show_icons=true&locale=tr" alt="TalhaD-coder" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaD-coder&layout=compact&locale=tr" alt="TalhaD-coder Languages" />
-  </p>
+  <a href="https://github.com/TalhaD-coder">
+    <img src="https://github-readme-stats.vercel.app/api?username=TalhaD-coder&show_icons=true&theme=transparent&hide_border=true&locale=tr" alt="TalhaD-coder GitHub Stats" />
+  </a>
+  <br>
+  <a href="https://github.com/TalhaD-coder">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaD-coder&layout=compact&theme=transparent&hide_border=true&locale=tr" alt="TalhaD-coder Top Languages" />
+  </a>
 </div>
 
 ---
