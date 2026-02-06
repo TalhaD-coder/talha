@@ -3,7 +3,7 @@
 # Merhaba, Ben Talha 👋
 ### Yapay Zeka ve Veri Mühendisliği Öğrencisi | Otonom Sistemler Geliştiricisi
 
-<a href="LINKEDIN_ADRESINIZI_BURAYA_YAPISTIRIN" target="_blank">
+<a href="https://www.linkedin.com/in/talha-da%C4%9F-9452b2331/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:talha.dag2005@gmail.com">
