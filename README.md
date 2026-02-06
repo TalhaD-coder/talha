@@ -1,73 +1,78 @@
 <div align="center">
 
 # Merhaba, Ben Talha 👋
-### Yapay Zeka ve Veri Mühendisliği Öğrencisi 
+### Yapay Zeka ve Veri Mühendisliği Öğrencisi | Otonom Sistemler Geliştiricisi
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Profilim-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/talha-da%C4%9F-9452b2331/)
-[![Email](https://img.shields.io/badge/Email-Bana_Ulaşın-c14438?style=for-the-badge&logo=gmail)](mailto:talha.dag2005@gmail.com)
+<a href="LINKEDIN_ADRESINIZI_BURAYA_YAPISTIRIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:talha.dag2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Bana_Ulaşın-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
 ---
 
-### 👨‍💻 Hakkımda
+### 🚀 Hakkımda
 
-Yapay Zeka ve Veri Mühendisliği bölümünde lisans eğitimime devam ediyorum. Akademik teoriyi sahadaki pratik uygulamalarla birleştirmeye odaklanan bir mühendis adayıyım.
+**Veriyi aksiyona, kodları fiziksel harekete dönüştürüyorum.**
 
-Kariyer hedefim; **Veri Mühendisliği**, **Otonom Sistemler** ve **IoT** teknolojilerini entegre ederek ölçeklenebilir ve akıllı çözümler üretmektir. Şu anda hem akademik araştırmalar (TÜBİTAK) yürütüyor hem de bu teknolojileri ticarileştirecek girişimcilik projeleri üzerinde çalışıyorum.
+Fırat Üniversitesi Yapay Zeka ve Veri Mühendisliği bölümünde lisans eğitimimi sürdürüyorum. Akademik teoriyi sadece öğrenmekle kalmıyor; **TÜBİTAK destekli Ar-Ge projeleri** ve **girişimcilik faaliyetleriyle** sahada test ediyorum.
+
+Mühendislik yaklaşımım; karmaşık problemleri **yapay zeka** ve **gömülü sistemler** (IoT/Otonom Araçlar) ile çözerek ölçeklenebilir teknolojiler üretmek üzerine kuruludur. Geleceğin akıllı sistemlerini inşa eden ekiplerde aktif rol almaya ve değer üretmeye odaklıyım.
 
 ---
 
 ### 🛠️ Teknik Yetkinlikler
 
-Mühendislik problemlerini çözerken kullandığım teknoloji yığınım:
+Projelerimde kullandığım teknoloji yığınım:
 
 | Alan | Teknolojiler & Araçlar |
 | :--- | :--- |
 | **Diller** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoft-sql-server&logoColor=white) |
-| **Veri & AI** | Veri Madenciliği, NLP (Doğal Dil İşleme), Veri Analitiği |
+| **AI & Veri** | Veri Madenciliği, NLP (Doğal Dil İşleme), Scikit-Learn, Pandas |
 | **Gömülü Sistemler** | IoT Protokolleri, Sensör Füzyonu, Motor Sürücü Entegrasyonu |
-| **Veritabanı** | İlişkisel Veritabanı Tasarımı (RDBMS), Normalizasyon, Query Optimizasyonu |
-| **Diğer** | Git/GitHub, Algoritma Analizi, Blockchain Entegrasyonu |
+| **Veritabanı** | RDBMS Tasarımı, Normalizasyon, Query Optimizasyonu |
+| **Araçlar** | Git/GitHub, Linux, Algoritma Analizi, Blockchain Entegrasyonu |
 
 ---
 
-### 🧬 Projeler ve Araştırmalar
+### 🧬 Öne Çıkan Projeler
 
-#### 1. ❄️ IoT ve Blockchain Ağı Kullanarak Güvenli Soğuk Zincir Ürün Takibi
-**Rol:** Araştırmacı & Geliştirici
-> **Program:** TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projeleri
+#### 1. ❄️ Güvenli Soğuk Zincir Takip Sistemi (IoT & Blockchain)
+**Rol:** Araştırmacı & Proje Yürütücüsü
+> **Program:** TÜBİTAK 2209-A Araştırma Projeleri
 
-Isıya duyarlı ürünlerin (gıda, ilaç vb.) lojistik sürecinde, sıcaklık ve nem verilerinin anlık takibini sağlayan ve bu verileri **Blockchain** üzerinde şifreleyerek veri güvenliğini garanti altına alan bir sistemdir.
-* **Kazanımlar:** Soğuk zincir kırılmalarının tespiti, değiştirilemez veri kaydı (Immutable Ledger) ve sensör entegrasyonu.
-* **Teknolojiler:** `IoT`, `Blockchain`, `C++`, `Sensör Sistemleri`
+Lojistik süreçlerinde ısıya duyarlı ürünlerin güvenliğini sağlamak amacıyla geliştirilmiş akademik araştırma projesidir.
+* **Çözüm:** IoT sensörlerinden alınan veriler, **C++** tabanlı şifreli protokollerle **Blockchain** ağına işlenerek verilerin değiştirilemezliği (immutability) sağlanmıştır.
+* **Teknolojiler:** `IoT`, `Blockchain`, `Embedded C++`, `Network Security`
 
-#### 2. 🚜 6x6 Otonom İnsansız Kara Aracı (Girişimcilik Projesi)
-**Rol:** Kurucu Ortak & Yazılım Geliştirici
-> **Durum:** Prototip Geliştirme & Ticarileşme Aşaması
+#### 2. 🚜 6x6 Otonom İnsansız Kara Aracı (İKA)
+**Rol:** Kurucu Ortak & Yazılım Lideri
+> **Kategori:** Girişimcilik & Ar-Ge
 
-Zorlu arazi koşullarında lojistik destek ve keşif yapabilen, 6x6 çekiş sistemine sahip otonom bir araç girişimidir.
-* **Özellikler:** Otonom güzergah takibi, engel algılama ve yük taşıma kapasitesi.
-* **Teknik Detay:** Araç kinematiğinin C++ ile kodlanması ve sensör verilerinin işlenmesi.
-* **Teknolojiler:** `C++`, `Gömülü Sistemler`, `Otonom Sürüş Algoritmaları`
+Zorlu arazi koşullarında lojistik destek ve keşif yapabilen, ticarileşme odaklı otonom araç girişimidir.
+* **Çözüm:** Aracın otonom sürüş algoritmaları ve kinematik kontrolü **C++** ile geliştirilmiş; engel algılama ve güzergah takibi için sensör füzyonu uygulanmıştır.
+* **Teknolojiler:** `C++`, `Robotics`, `Autonomous Systems`, `Sensor Fusion`
 
 #### 3. 📰 Akıllı Gündem Ajansı (AI & NLP)
 **Rol:** AI Geliştiricisi
 
-Kullanıcıların okuma alışkanlıklarını analiz ederek, onlara en uygun haber içeriklerini sunan yapay zeka destekli bir platform.
-* **Metodoloji:** Haber metinlerinin Doğal Dil İşleme (NLP) ile sınıflandırılması ve kişiselleştirilmiş öneri motoru.
-* **Teknolojiler:** `Python`, `NLP`, `Makine Öğrenmesi`
+Kullanıcı davranışlarını analiz eden yapay zeka destekli haber öneri motoru.
+* **Çözüm:** Haber metinleri **Doğal Dil İşleme (NLP)** teknikleriyle sınıflandırılarak, kullanıcıya en uygun içeriklerin sunulduğu kişiselleştirilmiş bir akış oluşturulmuştur.
+* **Teknolojiler:** `Python`, `NLP`, `Machine Learning`
 
-#### 4. 🏨 Otel Yönetim ve Rezervasyon Sistemi
-**Rol:** Database Developer & Backend
+#### 4. 🏨 Otel Veritabanı Yönetim Sistemi
+**Rol:** Backend & Database Developer
 
-Büyük ölçekli verilerin tutarlılığını sağlamak üzere tasarlanmış, ilişkisel veritabanı mimarisine sahip yönetim sistemi.
-* **Odak:** Veritabanı normalizasyonu ile veri tekrarının önlenmesi ve karmaşık SQL sorgularının optimize edilmesi.
-* **Teknolojiler:** `SQL`, `Database Design`, `RDBMS`
+Büyük ölçekli veri yönetimini simüle eden kapsamlı rezervasyon sistemi.
+* **Çözüm:** Veri tutarlılığını sağlamak için **SQL** ile normalize edilmiş ilişkisel veritabanı mimarisi kurulmuş ve sorgu performansları optimize edilmiştir.
+* **Teknolojiler:** `SQL`, `Database Architecture`, `Backend`
 
 ---
 
-### 📈 GitHub Analizi
+### 📈 GitHub İstatistikleri
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TalhaD-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="TalhaD-coder Stats" height="150" />
@@ -76,5 +81,5 @@ Büyük ölçekli verilerin tutarlılığını sağlamak üzere tasarlanmış, i
 
 ---
 <div align="center">
-<i>"Veriyi bilgiye, bilgiyi teknolojiye dönüştürüyorum."</i>
+<i>"Teknolojiyi tüketen değil, geleceği kodlayanlardanım."</i>
 </div>
