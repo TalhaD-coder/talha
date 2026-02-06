@@ -3,8 +3,8 @@
 # Merhaba, Ben Talha 👋
 ### Yapay Zeka ve Veri Mühendisliği Öğrencisi 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Profilim-blue?style=for-the-badge&logo=linkedin)](LINKEDIN_ADRESINI_BURAYA_YAPISTIR)
-[![Email](https://img.shields.io/badge/Email-Bana_Ulaşın-c14438?style=for-the-badge&logo=gmail)](mailto:EMAIL_ADRESINI_BURAYA_YAPISTIR)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Profilim-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/talha-da%C4%9F-9452b2331/)
+[![Email](https://img.shields.io/badge/Email-Bana_Ulaşın-c14438?style=for-the-badge&logo=gmail)](mailto:talha.dag2005@gmail.com)
 
 </div>
 
