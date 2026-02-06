@@ -25,7 +25,7 @@ Fırat Üniversitesi **Yapay Zeka ve Veri Mühendisliği** bölümünde lisans e
 
 Mühendislik eğitimim süresince kendimi tek bir alanla sınırlamak yerine; **Yazılım Geliştirme**, **Veri Analitiği** ve **Donanım-Yazılım Entegrasyonu** gibi farklı disiplinlerde projeler üreterek çok yönlü bir bakış açısı kazanmayı hedefliyorum. Akademik teoriyi; TÜBİTAK projeleri, girişimcilik faaliyetleri ve bireysel çalışmalarla pratiğe dökerek, karşılaştığım problemleri mühendislik disipliniyle çözmeye odaklanıyorum.
 
-Amacım; teknolojiyi bir araç olarak kullanarak, hangi alanda olursa olsun (Web, AI, IoT veya Lojistik) ölçeklenebilir ve verimli çözümler üretmektir.
+Amacım; teknolojiyi bir araç olarak kullanarak, hangi alanda olursa olsun (Web, AI, IoT veya Lojistik) ölçeklenebilir ve verimli çözümler üretebilen sektör için yeterli kendi alanımda işin ehli bir mühendis olabilmektir.
 
 ---
 
@@ -71,7 +71,7 @@ Kullanıcıların dijital okuma alışkanlıklarını analiz ederek, bilgi kirli
 
 #### 4. 🏨 Otel Veritabanı Yönetim Sistemi
 **Rol:** Backend & Database Developer
-> **Kategori:** Veritabanı Mimarisi | **Durum:** Tamamlandı 🟢
+> **Kategori:** Veritabanı Mimarisi | **Durum:** Prototip Tamamlandı 🟢
 
 Büyük ölçekli veri yönetimini ve rezervasyon süreçlerini simüle eden, veri bütünlüğünü esas alan kapsamlı bir backend projesidir.
 * **Proje Detayı:** Karmaşık rezervasyon senaryolarını yönetebilmek adına **SQL** ile normalize edilmiş (3NF) bir veritabanı şeması tasarlanmış, sorgu performansları optimize edilerek veri tutarlılığı sağlanmıştır.
