@@ -4,10 +4,11 @@
 ### Yapay Zeka ve Veri Mühendisliği Öğrencisi
 
 <a href="https://www.linkedin.com/in/talha-da%C4%9F-9452b2331/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp; <a href="mailto:talha.dag2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Bana_Ulaşın-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+&nbsp; 
+<a href="mailto:talha.dag2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Bana_Ulaşın-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br><br>
@@ -43,42 +44,49 @@ Amacım; teknolojiyi bir araç olarak kullanarak, hangi alanda olursa olsun (Web
 
 ### 🧬 Projelerim
 
-Teorik bilgimi sahada test ettiğim çalışmalarım:
+Teorik bilgimi sahada test ettiğim, geliştirme süreci devam eden ve tamamlanan çalışmalarım:
 
 #### 1. ❄️ Güvenli Soğuk Zincir Takip Sistemi (TÜBİTAK 2209)
 **Rol:** Araştırmacı & Proje Yürütücüsü
-> **Kategori:** Akademik Araştırma & IoT
+> **Kategori:** Akademik Araştırma & IoT | **Durum:** Geliştirme Aşamasında 🟡
 
-Lojistik süreçlerinde verilerin güvenliğini sağlamak amacıyla geliştirilmiş akademik araştırma projesidir.
-* **Proje Özeti:** IoT sensörlerinden alınan sıcaklık verilerinin, **C++** tabanlı şifreli protokollerle **Blockchain** ağına işlenerek verilerin değiştirilemezliğinin sağlandığı bir sistem tasarımıdır.
+Lojistik süreçlerinde, ısıya duyarlı hassas ürünlerin (gıda, ilaç vb.) güvenliğini maksimum seviyeye çıkarmayı hedefleyen akademik bir araştırma projesidir.
+* **Proje Hedefi:** IoT sensörleri aracılığıyla toplanan anlık sıcaklık ve nem verilerinin, **Blockchain** teknolojisi kullanılarak şifrelenmesi ve dağıtık ağ üzerinde değiştirilemez (immutable) bir şekilde saklanması amaçlanmaktadır.
+* **Teknik Süreç:** **C++** tabanlı güvenli iletişim protokollerinin tasarımı ve sensör kalibrasyon çalışmaları devam etmektedir.
 
 #### 2. 🚜 6x6 Otonom İnsansız Kara Aracı (İKA)
 **Rol:** Kurucu Ortak & Yazılım Ekibi
-> **Kategori:** Girişimcilik & Prototip Geliştirme
+> **Kategori:** Girişimcilik & Ar-Ge | **Durum:** Prototip Geliştirme Sürecinde 🟡
 
-Lojistik destek ve keşif amaçlı tasarlanan, ticarileşme odaklı bir girişimcilik projesidir.
-* **Proje Özeti:** Çok disiplinli bir ekiple, zorlu arazi şartlarında hareket edebilen bir aracın **C++** ile kinematik kontrolü ve sensör entegrasyonu gerçekleştirilmiştir.
+Zorlu arazi koşullarında lojistik destek sağlayabilen ve keşif yapabilen, ticarileşme odaklı modüler bir otonom araç girişimidir.
+* **Proje Hedefi:** 6x6 çekiş sistemine sahip aracın; GPS ve sensör füzyonu verilerini kullanarak belirlenen güzergahı otonom olarak takip etmesi ve engel aşma kabiliyetine sahip olması hedeflenmektedir.
+* **Teknik Süreç:** Aracın kinematik kontrol algoritmalarının **C++** ile geliştirilmesi ve gömülü sistem entegrasyonu üzerine çalışmalar sürdürülmektedir.
 
 #### 3. 📰 Akıllı Gündem Ajansı
 **Rol:** Bireysel Geliştirici
-> **Kategori:** Yapay Zeka & NLP
+> **Kategori:** Yapay Zeka & NLP | **Durum:** Prototip Tamamlandı 🟢
 
-Kullanıcı alışkanlıklarına göre içerik sunan bir öneri sistemi projesidir.
-* **Proje Özeti:** **Python** ve **Doğal Dil İşleme (NLP)** kütüphaneleri kullanılarak, haber metinlerini sınıflandıran ve kullanıcıya kişiselleştirilmiş akış sunan bir algoritma geliştirilmiştir.
+Kullanıcıların dijital okuma alışkanlıklarını analiz ederek, bilgi kirliliğini önlemeyi ve kişiye özel içerik sunmayı amaçlayan bir öneri sistemidir.
+* **Proje Detayı:** **Python** ve **Doğal Dil İşleme (NLP)** teknikleri kullanılarak haber metinleri kategorize edilmiş; kullanıcı ilgisine göre filtreleme yapan akıllı bir algoritma mimarisi kurgulanmıştır.
 
 #### 4. 🏨 Otel Veritabanı Yönetim Sistemi
-**Rol:** Backend & Database
-> **Kategori:** Veritabanı Mimarisi
+**Rol:** Backend & Database Developer
+> **Kategori:** Veritabanı Mimarisi | **Durum:** Tamamlandı 🟢
 
-Büyük ölçekli veri yönetimini simüle eden kapsamlı rezervasyon sistemi.
-* **Proje Özeti:** **SQL** kullanılarak normalize edilmiş bir veritabanı şeması kurulmuş, veri tutarlılığı ve sorgu performansı üzerine çalışmalar yapılmıştır.
+Büyük ölçekli veri yönetimini ve rezervasyon süreçlerini simüle eden, veri bütünlüğünü esas alan kapsamlı bir backend projesidir.
+* **Proje Detayı:** Karmaşık rezervasyon senaryolarını yönetebilmek adına **SQL** ile normalize edilmiş (3NF) bir veritabanı şeması tasarlanmış, sorgu performansları optimize edilerek veri tutarlılığı sağlanmıştır.
 
 ---
 
 ### 📈 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalhaD-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="TalhaD-coder Stats" height="150" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=TalhaD-coder&show_icons=true&locale=tr" alt="TalhaD-coder" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaD-coder&layout=compact&locale=tr" alt="TalhaD-coder Languages" />
+  </p>
 </div>
 
 ---
