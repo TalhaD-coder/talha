@@ -74,4 +74,22 @@ Kullanıcıların dijital okuma alışkanlıklarını analiz ederek, bilgi kirli
 > **Kategori:** Okul Projesi (Veritabanı Mimarisi) | **Durum:** Prototip Tamamlandı 🟢
 
 Büyük ölçekli veri yönetimini ve rezervasyon süreçlerini simüle eden, veri bütünlüğünü esas alan kapsamlı bir backend projesidir.
-* **Proje Detayı
+* **Proje Detayı:** Karmaşık rezervasyon senaryolarını yönetebilmek adına **SQL** ile normalize edilmiş (3NF) bir veritabanı şeması tasarlanmış, sorgu performansları optimize edilerek veri tutarlılığı sağlanmıştır.
+
+---
+
+### 📈 GitHub İstatistikleri
+
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=TalhaD-coder&show_icons=true&locale=tr" alt="TalhaD-coder" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaD-coder&layout=compact&locale=tr" alt="TalhaD-coder Languages" />
+  </p>
+</div>
+
+---
+<div align="center">
+<i>"Sürekli öğreniyor, geliştiriyor ve uyguluyorum."</i>
+</div>
